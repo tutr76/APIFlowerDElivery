@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\repositories\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\repositories\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\dtos\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\dtos\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\dtos\\flowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\dtos\\flowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\data\\flowerdeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\data\\flowerdeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\flowerdeliveryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\flowerdeliveryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|c:\\users\\user\\source\\repos\\flowerdeliveryapi\\flowerdeliveryapi\\flowerdeliveryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DCB0D03-4E17-F7F7-D1A4-F04A7062C9E2}|FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj|solutionrelative:flowerdeliveryapi\\flowerdeliveryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T20:41:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\FlowerRepository.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Repositories\\FlowerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\FlowerRepository.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Repositories\\FlowerRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:47:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:46:56.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Program.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:53:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAIwHYBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:00:13.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Controllers\\FlowersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:52:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:52:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\appsettings.json",
+              "RelativeToolTip": "FlowerDeliveryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T18:46:22.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:47:27.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:45:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\CustomersDTO.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\DTOs\\CustomersDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\CustomersDTO.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\DTOs\\CustomersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:44:29.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\FlowerDTO.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\DTOs\\FlowerDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\DTOs\\FlowerDTO.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\DTOs\\FlowerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:44:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlowerDeliveryContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Data\\FlowerDeliveryContext.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Data\\FlowerDeliveryContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Data\\FlowerDeliveryContext.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Data\\FlowerDeliveryContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:42:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:38:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:41:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Order.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:39:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Models\\Flower.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Models\\Flower.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:39:06.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:41:59.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "FlowerDeliveryAPI\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:48:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlowerDeliveryAPI.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\FlowerDeliveryAPI.http",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\FlowerDeliveryAPI.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\FlowerDeliveryAPI.http",
+              "RelativeToolTip": "FlowerDeliveryAPI\\FlowerDeliveryAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-23T19:43:30.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlowerDeliveryAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj",
+              "RelativeDocumentMoniker": "FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FlowerDeliveryAPI\\FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj",
+              "RelativeToolTip": "FlowerDeliveryAPI\\FlowerDeliveryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T18:33:40.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
